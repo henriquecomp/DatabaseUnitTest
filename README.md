@@ -140,5 +140,5 @@ Thank all you guys to build the dependencies.
 - GetInfoSqlConnection
 - GetInfoSqlTransaction
 - Rollback
-- 
+
 All the methods have a summary to help you to use.
